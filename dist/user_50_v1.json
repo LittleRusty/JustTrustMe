@@ -1,0 +1,503 @@
+{"players":[
+  {
+    "_id": 0,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 1,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 2,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 3,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 4,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 5,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 6,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 7,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 8,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 9,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 10,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 11,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 12,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 13,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 14,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 15,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 16,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 17,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 18,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 19,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 20,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 21,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 22,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 23,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 24,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 25,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 26,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 27,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 28,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 29,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 30,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 31,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 32,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 33,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 34,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 35,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "ConstantBummer"
+  },
+  {
+    "_id": 36,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 37,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 38,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Steward"
+  },
+  {
+    "_id": 39,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 40,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 41,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  },
+  {
+    "_id": 42,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "AlmostGood"
+  },
+  {
+    "_id": 43,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 44,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 45,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 46,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 47,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 48,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Dastardly"
+  },
+  {
+    "_id": 49,
+    "Trust": "",
+    "TrustedBy": "",
+    "Distrust": "",
+    "DistrustedBy": "",
+    "NeurtralOn": "",
+    "NeutralBy": "",
+    "PlayerType": "Bad"
+  }
+]
+}
